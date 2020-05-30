@@ -1,6 +1,6 @@
-88bba29fff7e2876e5620f2a87ea7f07 *DESCRIPTION
+302ca404a6badda524b0623a3b7491ae *DESCRIPTION
 35ac1698329c77532415c9fd13fdb09f *NAMESPACE
-7ca08fbdc7822ce4060b700e889cf0f8 *NEWS.md
+6041c99afece079ecd00fe07879135a2 *NEWS.md
 9bbc1641c87ec113c30fe6ec2160ed7e *R/RcppExports.R
 f8bd62bfce3dca5ab4b089cd492a1e2a *R/mrsguide.R
 6b23d12f663282a0ccdbb2a8fe1be6be *R/mrsimp.R
@@ -18,7 +18,7 @@ a3f3915517571c269ce54ae494afbed7 *inst/CITATION
 a4550b5199a4e09f4afc396dbfe81961 *inst/dev.md
 fa6a2de40fd050f88e0aa2428be70946 *inst/doc/UsageOfMrSGUIDE.R
 38742e343d42fd89c9246b76aa699a6d *inst/doc/UsageOfMrSGUIDE.Rmd
-6096b6562a8073aeadbff2d9eec78f09 *inst/doc/UsageOfMrSGUIDE.html
+905786e7f11361098bb0195bdea9ecbd *inst/doc/UsageOfMrSGUIDE.html
 ddf652de6a6fc1a1948ee59fef17de6a *inst/include/common.hpp
 5c149bd56dd3c27116080f0b79b6c022 *inst/include/gitree.hpp
 b76c5ff1cdd0b8213ec8750d1adcf13e *inst/include/node.hpp
@@ -39,7 +39,7 @@ e8f019977cbe09fdebe620be712149b6 *src/GUIDE.cpp
 4e8a4f01bf09868c983422490d21182f *src/RcppExports.cpp
 3b2fa248322aef1bb38cb791bd8f7611 *src/gitree.cpp
 b8bf634aaa7e2003943f31fdd8dd3019 *src/node.cpp
-e596a898af6b6434af93caa6273f4daa *src/regression.cpp
+afde95dfc2a1fea412bc1a43250b983f *src/regression.cpp
 90727ca4f0a47b6fd67d2066b905c7f9 *src/split.cpp
 79642b1246e774cd0142c2e01483bdfc *src/tree.cpp
 e5674fe416b9ce97677719766f1764e0 *src/utils.cpp
