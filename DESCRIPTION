@@ -2,8 +2,8 @@ Package: MrSGUIDE
 Type: Package
 Title: Multiple Responses Subgroup Identification using 'GUIDE'
         Algorithm
-Version: 0.1.1
-Date: 2020-05-29
+Version: 0.1.2
+Date: 2020-10-12
 Authors@R: c(person(given ="Peigen", family = "Zhou", role = c("aut", "cre"), email = "pzhou9@wisc.edu", comment = c(ORCID = "0000-0003-4609-0374")),
              person(given = "Wei-Yin", family = "Loh", role = c("aut"), email= "loh@stat.wisc.edu", comment = c(ORCID = "0000-0001-6983-2495")))
 Maintainer: Peigen Zhou <pzhou9@wisc.edu>
@@ -13,7 +13,7 @@ Description: An R implementation of 'GUIDE' style algorithm focusing on subgroup
 License: GPL-3
 URL: http://www.stat.wisc.edu/~loh/guide.html,
         https://baconzhou.github.io/MrSGUIDE/,
-        http://pages.stat.wisc.edu/~loh/treeprogs/guide/LZ19.pdf,
+        http://pages.stat.wisc.edu/~loh/treeprogs/guide/LZ20.pdf,
         http://pages.stat.wisc.edu/~loh/treeprogs/guide/sm19.pdf
 BugReports: https://github.com/baconzhou/mrsguide/issues
 LinkingTo: Rcpp, RcppArmadillo, BH
@@ -25,8 +25,8 @@ Suggests: knitr, rmarkdown, visNetwork, ggplot2
 VignetteBuilder: knitr
 Encoding: UTF-8
 NeedsCompilation: yes
-Packaged: 2020-05-29 16:09:22 UTC; peigen
+Packaged: 2020-10-15 06:03:40 UTC; peigen
 Author: Peigen Zhou [aut, cre] (<https://orcid.org/0000-0003-4609-0374>),
   Wei-Yin Loh [aut] (<https://orcid.org/0000-0001-6983-2495>)
 Repository: CRAN
-Date/Publication: 2020-05-30 14:20:02 UTC
+Date/Publication: 2020-10-15 06:40:03 UTC
